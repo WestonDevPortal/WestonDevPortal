@@ -1,15 +1,10 @@
-# Hello, I'm WestonITGateway!
+# Hey there, I'm WestonITGateway!
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I'm an Information Science student in College Park, MD, with a passion for networking and cloud computing, seeking opportunities to grow my technical skills. Welcome to my portfolio! In the future I have a few goals for this page:
-Showcase labs and trainings that I've worked on while studying for certifications
-Describe my experience gaining IT certs, which study techniques I used, and which skills transfer to my jobs
-Showcase programming and scripting projects that I've completed (once I get to that level)
-
-## Objective
-[Provide Objective - Remove this afterwards]]
+## I'm an Information Science student in College Park, MD, with a passion for networking and cloud computing, seeking opportunities to grow my technical skills. Welcome to my portfolio! In the future I have a few goals for this page:
+* Showcase labs and trainings that I've worked on while studying for certifications
+* Describe my experience gaining IT certs, which study techniques I used, and which skills transfer to my jobs
+* Showcase programming and scripting projects that I've completed (once I get to that level)
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
