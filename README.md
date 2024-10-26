@@ -1,4 +1,4 @@
-# Hey there, I'm WestonITGateway!
+# Hey there, I'm WestonDevPortal!
 <a href="www.linkedin.com/in/weston-marhefka-320b10274"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## I'm an Information Science student in College Park, MD, with a passion for networking and cloud computing, seeking opportunities to grow my technical skills. Welcome to my portfolio! In the future I have a few goals for this page:
