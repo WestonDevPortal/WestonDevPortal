@@ -6,7 +6,7 @@
 * Describe my experience gaining IT certs, which study techniques I used, and which skills transfer to my jobs
 * Showcase programming and scripting projects that I've completed (once I get to that level)
 
-My journey in information science has led me to develop a passion for computers, and I am excited to transition into this field. I aspire to become a Cloud Engineer or Network Engineer, using my skills to work on cloud and network infrastructures.
+Driven by my studies in information science and a strong interest in technology, I aim to become a Cloud Engineer or Network Engineer, seeking opportunities to grow and collaborate with teams in building and optimizing cloud and network systems.
 
 **🔧 Programming Languages:**
 - **SQL**
