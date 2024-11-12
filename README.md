@@ -11,7 +11,7 @@ Driven by my studies in information science and a strong interest in technology,
 **🔧 Programming Languages:**
 - **SQL**
 - **Python**
-- **Java**
+- **Typescript**
 - **C++**
 
 **🛠 Developer Tools:**
